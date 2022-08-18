@@ -51,7 +51,6 @@ body {
     font-size:x-large
 }
 
-
 #status{
     margin-top: 5%;
     display: flex;
@@ -74,4 +73,19 @@ body {
     position: absolute;
     right: 300px;
     top: 250px;
+}
+
+#certficate {
+    display: flex;
+    justify-content: center;
+}
+
+#certificate_button {
+    display: flex;
+    justify-content:center;
+    margin-top: 5%;
+    margin-left: 860px;
+    background-color: #9879c0;
+    padding: 20px;
+    text-decoration: none;
 }
