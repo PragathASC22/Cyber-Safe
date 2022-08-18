@@ -46,13 +46,13 @@ let emails = [
     {
         "title": "Week 5 COTW Brigade Capital JS",
         "email": "kathrine@allstarcode.org",
-        "content": "Hi," + "<br />" + "Fantastic work this week! You have all been working toward Demo Day and it is just" + "<br />" + "around the corner. Demo Day is Thursday, August 18th, 2022 at 7:00pm EST (for" + "<br />" + "students) and 7:30pm EST (for families and guests). Attached you will find our Code of" + "<br />" + "the Week with important announcements, shoutouts, Demo Day information, and content" + "<br />" + "that your cohort created." + "<br />" + "Have a great weekend!" + "<br />" + "<br />" + "Best," + "<br />" + "Kathrine Coizza",
+        "content": "Hi," + "<br />" + "<br />" + "Fantastic work this week! You have all been working toward Demo Day and it is just" + "<br />" + "around the corner. Demo Day is Thursday, August 18th, 2022 at 7:00pm EST (for" + "<br />" + "students) and 7:30pm EST (for families and guests). Attached you will find our Code of" + "<br />" + "the Week with important announcements, shoutouts, Demo Day information, and content" + "<br />" + "that your cohort created." + "<br />" + "Have a great weekend!" + "<br />" + "<br />" + "Best," + "<br />" + "Kathrine Coizza",
         "status_F_R": "Real"
     },
     {
         "title": "NBA Foundation Second Anniversary Fireside Chat with All-Star Code Confirmation",
         "email": "no-reply@zoom.us",
-        "content": "Hello," + "<br />" + "Thank you for registering for NBA Foundation Second Anniversary Fireside Chat with All-Star" + "<br />" + "Code. You can find information about this webinar below.",
+        "content": "Hello," + "<br />" + "<br />" + "Thank you for registering for NBA Foundation Second Anniversary Fireside Chat with All-Star" + "<br />" + "Code. You can find information about this webinar below.",
         "status_F_R": "Real"
     }
 ];
